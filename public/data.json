@@ -1,0 +1,104 @@
+{
+  "object": "till",
+  "orders": [
+    {
+      "object": "order",
+      "id": 217,
+      "table": "4",
+      "guests": 3,
+      "date": "",
+      "items": [
+        {
+          "object": "item",
+          "id": 217,
+          "name": "Entrée",
+          "price": 1200,
+          "currency": "€",
+          "color": "#73C399"
+        },
+        {
+          "object": "item",
+          "id": 217,
+          "name": "Plat",
+          "price": 1800,
+          "currency": "€",
+          "color": "#BD9B70"
+        },
+        {
+          "object": "item",
+          "id": 217,
+          "name": "Dessert",
+          "price": 800,
+          "currency": "€",
+          "color": "#FFAC69"
+        }
+      ]
+    },
+    {
+      "object": "order",
+      "id": 218,
+      "table": "5",
+      "guests": 1,
+      "date": "",
+      "items": [
+        {
+          "object": "item",
+          "id": 217,
+          "name": "Entrée",
+          "price": 1200,
+          "currency": "€",
+          "color": "#73C399"
+        },
+        {
+          "object": "item",
+          "id": 217,
+          "name": "Plat",
+          "price": 1800,
+          "currency": "€",
+          "color": "#BD9B70"
+        },
+        {
+          "object": "item",
+          "id": 217,
+          "name": "Dessert",
+          "price": 800,
+          "currency": "€",
+          "color": "#FFAC69"
+        }
+      ]
+    },
+    {
+      "object": "order",
+      "id": 219,
+      "table": "8",
+      "guests": 2,
+      "date": "",
+      "items": [
+        {
+          "object": "item",
+          "id": 217,
+          "name": "Entrée",
+          "price": 1200,
+          "currency": "€",
+          "color": "#73C399"
+        },
+        {
+          "object": "item",
+          "id": 217,
+          "name": "Plat",
+          "price": 1800,
+          "currency": "€",
+          "color": "#BD9B70"
+        },
+        {
+          "object": "item",
+          "id": 217,
+          "name": "Dessert",
+          "price": 800,
+          "currency": "€",
+          "color": "#FFAC69"
+        }
+      ]
+    }
+  ]
+}
